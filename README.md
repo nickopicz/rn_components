@@ -1,2 +1,2 @@
-# rn_components
-Reusable common components for react-native
+# react native components
+Just a bunch of reusable components for use in most development environments
